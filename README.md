@@ -1,18 +1,6 @@
 # Yogi
 
-A social app and marketplace for yogis to find their community "Sangha"
-
-### Trello (Project management)
-
-https://trello.com/b/VnItr8eY/yogi
-
-### UXPin (Wireframes)
-
-https://preview.uxpin.com/f753fe5e7a34beaad1946eb0397f783a52128272
-
-### Lucidchart (ERD)
-
-https://www.lucidchart.com/invitations/accept/be64b2ed-53bc-4bc1-9cac-ec7161241a17
+A social app and marketplace for yogis to connect to their community
 
 #### User Descriptions
 
@@ -38,6 +26,25 @@ https://www.lucidchart.com/invitations/accept/be64b2ed-53bc-4bc1-9cac-ec7161241a
 
 
 #### ERD
+
+![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/Planning/Yogi%20ERD.png)
+
+#### Wireframes
+
+
+
+
+###### Trello (Project management)
+
+https://trello.com/b/VnItr8eY/yogi
+
+###### UXPin (Wireframes)
+
+https://preview.uxpin.com/f753fe5e7a34beaad1946eb0397f783a52128272
+
+###### Lucidchart (ERD)
+
+https://www.lucidchart.com/invitations/accept/be64b2ed-53bc-4bc1-9cac-ec7161241a17
 
 
 
