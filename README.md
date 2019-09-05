@@ -21,7 +21,7 @@ A social app and marketplace for yogis to find their community
 
 ###### User 3 - Swami
 - Teaches yoga regularly and for income
-- Wants to grow their name a base of followers
+- Wants to grow their name and base of followers
 - Wants to be a yoga influencer
 
 ----------------
@@ -38,18 +38,18 @@ A social app and marketplace for yogis to find their community
 
 ###### Find classes
 
-4. From an 'explore page', view classes connected to your Sangha and those you follow
+4. From the 'explore page', view classes connected to your Sangha and those you follow
 5. Click on a class to view its detail
 6. Be able to register for the class, and pay using Square API if class requires payment
-7. See classes you have registered for from a 'classes page'
+7. See classes you have registered for from the 'classes page'
 
 ###### Find yogis
 
 7. Click on a teachers image form the class view to direct to their profile
-8. Click on class attendees to expand class view to show all
+8. Click on class view's attendees to expand view to show all
 9. Click on a yogi's image from the class view to direct to their profile
 10. Be able to follow / unfollow yogis from their profile
-11. Be able to click on followers/following from your profile to show all
+11. Be able to click on followers / following from your profile to show all
 
 ----------------
 
