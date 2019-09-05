@@ -27,11 +27,13 @@ A social app and marketplace for yogis to connect to their community
 
 #### ERD
 
-![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/Planning/Yogi%20ERD.png)
+![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/assets/Yogi_ERD.png)
 
 #### Wireframes
 
+![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/assets/Wireframes_1.png)
 
+![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/assets/Wireframes_2.png)
 
 
 ###### Trello (Project management)
