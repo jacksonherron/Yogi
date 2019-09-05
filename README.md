@@ -1,6 +1,6 @@
 # Yogi
 
-A social app and market place for yogis
+A social app and marketplace for yogis to find their community "Sangha"
 
 ### Trello 
 
