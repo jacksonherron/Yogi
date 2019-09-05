@@ -26,20 +26,21 @@ A social app and marketplace for yogis to find their community "Sangha"
 
 
 #### Wireframes
-!(Landing)[]
 
-!(Profile)[https://github.com/jacksonherron/Yogi/blob/master/Planning/Profile.png]
+![Landing](https://github.com/jacksonherron/Yogi/blob/master/Planning/Landing.png)
 
-!(Explore)[https://github.com/jacksonherron/Yogi/blob/master/Planning/Explore.png]
+![Profile](https://github.com/jacksonherron/Yogi/blob/master/Planning/Profile.png)
 
-!(Classes)[https://github.com/jacksonherron/Yogi/blob/master/Planning/Classes.png]
+![Explore](https://github.com/jacksonherron/Yogi/blob/master/Planning/Explore.png)
 
-!(Class)[https://github.com/jacksonherron/Yogi/blob/master/Planning/Class.png]
+![Classes](https://github.com/jacksonherron/Yogi/blob/master/Planning/Classes.png)
 
+![Class](https://github.com/jacksonherron/Yogi/blob/master/Planning/Class.png)
 
 
 #### ERD
-!(Yogi ERD)[https://github.com/jacksonherron/Yogi/blob/master/Planning/Yogi%20ERD.png]
+
+![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/Planning/Yogi%20ERD.png)
 
 ###### Trello (Project management)
 
