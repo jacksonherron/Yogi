@@ -33,23 +33,23 @@ A social app and marketplace for yogis to find their community
 1. Arrive at a descriptive landing page, and be directed there if logged out
 2. Create an account and then be directed to create a profile
 3. Logout from the profile page, login from the home page
-5. Be able to edit profile and change Sangha from the profile view
-4. Be able to switch to a teacher account from the profile page
+4. Be able to edit profile and change Sangha from the profile view
+5. Be able to switch to a teacher account from the profile page
 
 ###### Find classes
 
-4. From the 'explore page', view classes connected to your Sangha and those you follow
-5. Click on a class to view its detail
-6. Be able to register for the class, and pay using Square API if class requires payment
-7. See classes you have registered for from the 'classes page'
+6. From the 'explore page', view classes connected to your Sangha and those you follow
+7. Click on a class to view its detail
+8. Be able to register for the class, and pay using Square API if class requires payment
+9. See classes you have registered for from the 'classes page'
 
 ###### Find yogis
 
-7. Click on a teachers image form the class view to direct to their profile
-8. Click on class view's attendees to expand view to show all
-9. Click on a yogi's image from the class view to direct to their profile
-10. Be able to follow / unfollow yogis from their profile
-11. Be able to click on followers / following from your profile to show all
+10. Click on a teachers image form the class view to direct to their profile
+11. Click on class view's attendees to expand view to show all
+12. Click on a yogi's image from the class view to direct to their profile
+13. Be able to follow / unfollow yogis from their profile
+14. Be able to click on followers / following from your profile to show all
 
 ----------------
 
