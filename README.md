@@ -31,25 +31,7 @@ A social app and marketplace for yogis to connect to their community
 
 #### Wireframes
 
-###### Landing
 
-![Landing](https://github.com/jacksonherron/Yogi/blob/master/Planning/Landing.png)
-
-###### Profile
-
-![Profile](https://github.com/jacksonherron/Yogi/blob/master/Planning/Profile.png)
-
-###### Explore
-
-![Explore](https://github.com/jacksonherron/Yogi/blob/master/Planning/Explore.png)
-
-###### Classes
-
-![Classes](https://github.com/jacksonherron/Yogi/blob/master/Planning/Classes.png)
-
-###### Class
-
-![Class](https://github.com/jacksonherron/Yogi/blob/master/Planning/Class.png)
 
 
 ###### Trello (Project management)
