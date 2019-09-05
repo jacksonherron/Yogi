@@ -25,6 +25,10 @@ A social app and marketplace for yogis to find their community "Sangha"
 #### User Stories
 
 
+#### ERD
+
+![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/Planning/Yogi%20ERD.png)
+
 #### Wireframes
 
 ![Landing](https://github.com/jacksonherron/Yogi/blob/master/Planning/Landing.png)
@@ -37,10 +41,6 @@ A social app and marketplace for yogis to find their community "Sangha"
 
 ![Class](https://github.com/jacksonherron/Yogi/blob/master/Planning/Class.png)
 
-
-#### ERD
-
-![Yogi ERD](https://github.com/jacksonherron/Yogi/blob/master/Planning/Yogi%20ERD.png)
 
 ###### Trello (Project management)
 
