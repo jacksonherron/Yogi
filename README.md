@@ -2,9 +2,17 @@
 
 A social app and marketplace for yogis to find their community "Sangha"
 
-### Trello 
+### Trello (Project management)
 
 https://trello.com/b/VnItr8eY/yogi
+
+### UXPin (Wireframes)
+
+https://preview.uxpin.com/f753fe5e7a34beaad1946eb0397f783a52128272
+
+### Lucidchart (ERD)
+
+https://www.lucidchart.com/invitations/accept/be64b2ed-53bc-4bc1-9cac-ec7161241a17
 
 #### User Descriptions
 
@@ -30,5 +38,6 @@ https://trello.com/b/VnItr8eY/yogi
 
 
 #### ERD
+
 
 
