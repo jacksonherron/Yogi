@@ -1,6 +1,6 @@
 # Yogi
 
-A social app and marketplace for yogis to connect to their community
+A social app and marketplace for yogis to find their community
 
 ----------------
 
