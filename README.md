@@ -80,4 +80,5 @@ https://preview.uxpin.com/f753fe5e7a34beaad1946eb0397f783a52128272
 https://www.lucidchart.com/invitations/accept/be64b2ed-53bc-4bc1-9cac-ec7161241a17
 
 
+&copy; Jackson Herron 2019
 
